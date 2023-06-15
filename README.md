@@ -1,3 +1,1 @@
-# Boilerplate Express TypeScript
-
-If you have never used TypeScript, we recommend learning the basics of the language first. An Boilerplate Express TypeScript for your REST API Project, made by ❤️ and some ☕️
+# I am truly disappointed with the HR department in this company for not informing me that I am not qualified.
